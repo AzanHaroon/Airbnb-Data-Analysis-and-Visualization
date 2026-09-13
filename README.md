@@ -367,39 +367,6 @@ This project demonstrates a complete beginner-to-intermediate data science workf
 
 The combination of a documented Jupyter Notebook and an interactive Streamlit dashboard makes the analysis reproducible and easy to demonstrate.
 
-## Video Demonstration Requirement
-
-If a live URL is not available, record a short **2–4 minute screen demonstration** showing:
-
-1. Project/GitHub repository.
-2. Running the Streamlit dashboard.
-3. KPI cards.
-4. Country filtering.
-5. Price/guest filtering.
-6. Market analysis.
-7. Data Explorer.
-8. CSV download.
-9. Jupyter Notebook and key charts.
-
-Save the video as:
-
-```text
-Airbnb_Project_Demo.mp4
-```
-
-Upload it to Google Drive, YouTube (Unlisted), or another permitted platform and add the link here:
-
-```text
-Demo Video: ADD_YOUR_VIDEO_LINK_HERE
-```
-
-## GitHub Repository
-
-After creating your GitHub repository, replace this placeholder:
-
-```text
-Repository: YOUR_GITHUB_REPOSITORY_URL
-```
 
 ## References
 
