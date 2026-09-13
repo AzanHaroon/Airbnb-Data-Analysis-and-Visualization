@@ -249,23 +249,6 @@ Open that address in your browser.
 9. Use **Data Explorer** to inspect filtered listings.
 10. Click **Download filtered CSV** when you need the filtered data.
 
-## Screenshots
-
-Place your final dashboard screenshots in the `screenshots/` folder and update this section after running the application.
-
-Recommended screenshots:
-
-1. Dashboard overview with KPI cards.
-2. Country analysis.
-3. Market analysis table.
-4. Data Explorer with filters applied.
-
-Example Markdown for GitHub:
-
-```markdown
-![Dashboard Overview](screenshots/dashboard_overview.png)
-![Market Analysis](screenshots/market_analysis.png)
-```
 
 ## Analysis Results
 
